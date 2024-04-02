@@ -8,8 +8,6 @@
 
 - 🔭 I’m currently working on [Yeeter](https://github.com/DiogoSilva48/yeeter). A social network like Twitter which I'm using to improve my capabilities.
 
-<br/>
-
 # Technlogies and Tools 🧑‍💻
 
 ![SkillIcons](https://skillicons.dev/icons?i=html,css,js,bootstrap,react,tailwind,nextjs,nodejs,mysql,mongodb,java,spring)
