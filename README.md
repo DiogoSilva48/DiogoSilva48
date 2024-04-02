@@ -6,7 +6,7 @@
 
 - 🌱 I’m currently learning **React.JS** and **JAVA SpringBoot** and expanding my knowledge in **Node.JS** and **JavaScript**. Always looking to improve my Software Development skills in general.
 
-- 🔭 I’m currently working on [Yeeter](https://github.com/DiogoSilva48/yeeter). A social network like Twitter which I'm using to improve my capabilities.
+- 🚀 I’m currently working on [Yeeter](https://github.com/DiogoSilva48/yeeter). A social network like Twitter which I'm using to improve my capabilities.
 
 # Technologies and Tools 🧑‍💻
 
@@ -15,5 +15,5 @@
 
 # Contacts 📫
 
-[![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/diogoffsilva/)
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:diogosilva895@gmail.com)
+[![LinkedIn](https://ziadoua.github.io/m3-Markdown-Badges/badges/LinkedIn/linkedin1.svg)](https://www.linkedin.com/in/diogoffsilva/)
+[![Gmail](https://ziadoua.github.io/m3-Markdown-Badges/badges/Gmail/gmail1.svg)](mailto:diogosilva895@gmail.com)
